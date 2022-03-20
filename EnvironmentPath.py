@@ -1,3 +1,4 @@
 class EnvironmentPath:
 
-    MyLocalDesktopProjectPath = "C:/Users/Egor/PycharmProjects/TestData/"
+    MyLocalDesktopProjectPath = "C:/Users/Egor/PycharmProjects/TestProject/TestData/"
+    TestDataPath = "TestData/"
